@@ -1,2 +1,4 @@
 # hello-world
-Github guide
+
+Hello!
+I'm here to learn about coding.
